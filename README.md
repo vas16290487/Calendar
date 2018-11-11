@@ -11,7 +11,6 @@ Use text files in order to keep track of events. These files can be manipulated 
 - Output contents of a text file
 
 ##### Non-Functional Requirements
-- Asthetic or non essential requirements
 - Let the user decide what part of the calendar they see (day, week, month, etc.)
 - Format calendar before it is shown to the user
 - Alert the user through a CLI about an ongoing event
