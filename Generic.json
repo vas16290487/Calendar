@@ -1,0 +1,28 @@
+[{
+    "day":"09",
+    "month":"11",
+    "year":"2019",
+    "hour":"16",
+    "minute":"43",
+    "data":"Start appointment",
+    "comment":"This is a test entry"
+},
+{
+    "day":"18",
+    "month":"03",
+    "year":"2019",
+    "hour":"09",
+    "minute":"00",
+    "data":"Cisco Interview",
+    "comment":"This is another test entry"
+},
+{
+    "day":"12",
+    "month":"25",
+    "year":"2020",
+    "hour":"06",
+    "minute":"00",
+    "data":"Celebrate our lord and saviour, Stephen Hawking!",
+    "comment":"This is yet another test entry"
+}
+]

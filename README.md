@@ -16,7 +16,7 @@ Use text files in order to keep track of events. These files can be manipulated 
 - Alert the user through a CLI about an ongoing event
 
 ##### User Stories
-- As a user, I would 
+- As a user, I would use an application in order to access a calendar.
 - As a user, I would 
 - As a user, I would 
 - As a user, I would 
